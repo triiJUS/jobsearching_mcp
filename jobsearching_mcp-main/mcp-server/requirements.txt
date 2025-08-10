@@ -1,0 +1,8 @@
+fastmcp>=0.1.0
+httpx>=0.26.0
+duckduckgo-search>=4.1.1
+beautifulsoup4>=4.12.0
+python-dotenv
+markdownify
+readabilipy
+pydantic
